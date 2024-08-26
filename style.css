@@ -54,7 +54,7 @@ body{
 
 }
 .ator:hover img{
-    transform: scale(1.25);
+    transform: scale(200);
 }
 
 .titulo-sinopse {
@@ -63,13 +63,12 @@ body{
 }
 .site {
     color: white;
-    font-family:Bebas Neue, sans-serif;
     text-align: center;
-    align-items: center;
 }
-.site img {
- width: 70px;
- height: auto;
- 
+.Site img {
+    width: 10%;
+    height: 15%;
 }
-
+.Site{
+  color:white;
+}
