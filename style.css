@@ -54,7 +54,7 @@ body{
 
 }
 .ator:hover img{
-    transform: scale(200);
+    transform: scale(1.25);
 }
 
 .titulo-sinopse {
